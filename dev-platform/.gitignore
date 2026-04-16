@@ -1,0 +1,6 @@
+.env
+.DS_Store
+volume/
+
+infra-cdk/node_modules/
+infra-cdk/cdk.out/
